@@ -1,2 +1,4 @@
-# static
-Unchanging content for testing git operations
+static
+======
+
+Unchanging content for testing git operations.
